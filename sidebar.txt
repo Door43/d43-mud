@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mud:home|Door43 (mud)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mud|d43-mud repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mud/archive/master.zip|d43-mud.zip]]
+
+**Recent Changes**
+{{changes>ns = mud}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mud|Ethnologue data]]
+
